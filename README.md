@@ -17,4 +17,4 @@ sudo flashrom -p internal -c MX25L6436E/MX25L6445E/MX25L6465E/MX25L6473E/MX25L64
 
 flash chip is MX25L6436F labeled KH25L6436F
 
-flash at your own risk, recommended to have a ch341a or other flash programmer available to recover in case of bad flash
+flash at your own risk. recommended to first dump your original rom and have a ch341a or other flash programmer available to recover in case of bad flash
