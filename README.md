@@ -14,3 +14,5 @@ also included is original bios rom as dumped from flashrom (v4.6.5 build date: 0
 ```bash
 sudo flashrom -p internal -c MX25L6436E/MX25L6445E/MX25L6465E/MX25L6473E/MX25L6473F -r original.rom
 ```
+
+flash chip is MX25L6436F labeled KH25L6436F
