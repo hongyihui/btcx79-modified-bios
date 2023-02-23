@@ -1,5 +1,5 @@
 # x79btc-modified-bios
-modified uefi bios to enable all cores on chinese x79btc, btc79x5, x79eth03 motherboards. I don't have access to the btc79x9 dual-cpu board so I don't recommend flashing that board.
+modified uefi bios to enable all cores on chinese x79btc, btc79x5, x79eth03 motherboards. I don't have access to the btc79x9 dual-cpu variant so I don't recommend flashing that board.
 
 from the factory these boards have all cpus locked to 2 cores to reduce heat+power when gpu mining.
 
