@@ -10,7 +10,7 @@ bios can be flashed with flashrom:
 sudo flashrom -w modded.rom -p internal -c MX25L6436E/MX25L6445E/MX25L6465E/MX25L6473E/MX25L6473F
 ```
 
-also included is original bios rom as dumped from flashrom (v4.6.5 build date: 05/06/2021):
+also included is original bios rom as dumped from flashrom (bios v4.6.5 build date: 05/06/2021):
 ```bash
 sudo flashrom -p internal -c MX25L6436E/MX25L6445E/MX25L6465E/MX25L6473E/MX25L6473F -r original.rom
 ```
