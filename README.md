@@ -19,4 +19,4 @@ flash chip is MX25L6436F labeled KH25L6436F
 
 flash at your own risk. recommended to first dump your original rom and have a ch341a or other flash programmer available to recover in case of bad flash
 
-<img src="screenshot.png"> <img src="htop.png">
+![bios screenshot]("screenshot.png) ![htop screenshot]("htop.png)
