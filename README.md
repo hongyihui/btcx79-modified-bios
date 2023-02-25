@@ -1,5 +1,5 @@
 # x79btc-modified-bios
-modified uefi bios to enable all cores on chinese x79btc, btc79x5, x79eth03 motherboards. Also enables intel turbo boost. I don't have access to the btc79x9 dual-cpu variant so I don't recommend flashing that board.
+modified uefi bios to enable all cores on chinese x79btc, btc79x5, x79eth03 motherboards. Also enables hyperthreading and intel turbo boost. I don't have access to the btc79x9 dual-cpu variant so I don't recommend flashing that board.
 
 from the factory these boards have all cpus locked to 2 cores to reduce heat+power when gpu mining.
 
@@ -20,6 +20,8 @@ flash chip is MX25L6436F labeled KH25L6436F
 flash at your own risk. recommended to first dump your original rom and have a ch341a or other flash programmer available to recover in case of bad flash
 
 <p align="middle">
-  <img src="/screenshot.png" width="48%" /> 
-  <img src="/htop.png" width="48%" />
+  <img src="/screenshot.png?raw=true" width="48%" /> 
+  <img src="/htop.png?raw=true" width="48%" />
 </p>
+
+bios without beautiful logo can be flashed with modded_no_beauty.rom file
