@@ -3,7 +3,9 @@ modified uefi bios to enable all cores on chinese x79btc, btc79x5, x79eth03 moth
 
 from the factory these boards have all cpus locked to 2 cores to reduce heat+power when gpu mining.
 
-you may want to use a larger cpu heatsink after enabling all cores.
+after flashing make sure to reset bios settings in order for changes to take effect.
+
+you may also want to use a larger cpu heatsink after enabling all cores.
 
 bios can be flashed with flashrom:
 ```bash
