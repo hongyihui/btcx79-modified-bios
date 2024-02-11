@@ -1,0 +1,5 @@
+Question, which tool did you use to successfully modify the bios ? I have a dual cpu 9 slot board simmilar to this one.
+
+I have tried AMIBCP and must have desoldered and reflashed it like 15 times with no success i modify the cores to ALL and set turbo and hyperthreading to enabled in both MAIN and CPU section but no success.
+
+Any input would be helpful, thanks.
